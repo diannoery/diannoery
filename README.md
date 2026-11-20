@@ -1,14 +1,5 @@
-&#x20;\<p align="center">
-&#x20; \<img src="banner.svg" alt="Dian Noery - iOS Developer | Mobile Developer" width="100%">
-\</p>
+<p align="center"> <img src="./banner.svg" alt="Dian Noery - iOS Developer | Mobile Developer" width="100%"> </p> <h2 align="center">Hi there, I'm Dian Noery 👋</h2> <p align="center"> <strong>iOS Developer | Mobile & Web Development</strong> </p> <p align="center"> Building elegant, scalable, and user-friendly applications. </p> <p align="center"> <a href="https://github.com/diannoery"> <img src="https://img.shields.io/badge/GitHub-diannoery-181717?style=flat&logo=github" alt="GitHub" /> </a> <img src="https://img.shields.io/badge/Focus-iOS%20Development-blue?style=flat&logo=apple" alt="Focus: iOS Development" /> <img src="https://img.shields.io/badge/Platform-Mobile%20%26%20Web-orange?style=flat" alt="Platform: Mobile & Web" /> </p>
 
-\<h2 align="center">Hi there, I'm Dian Noery 👋\</h2>
-
-\<p align="center">   \<strong>iOS Developer | Mobile & Web Development\</strong> \</p>
-
-\<p align="center">   Building elegant, scalable, and user-friendly applications. \</p>
-
-\<p align="center">   \<a href="[https://github.com/diannoery](https://github.com/diannoery)">     \<img src="[https://img.shields.io/badge/GitHub-diannoery-181717?style=flat&logo=github](https://img.shields.io/badge/GitHub-diannoery-181717?style=flat\&logo=github)" />   \</a>   \<img src="[https://img.shields.io/badge/Focus-iOS%20Development-blue?style=flat&logo=apple](https://img.shields.io/badge/Focus-iOS%20Development-blue?style=flat\&logo=apple)" />   \<img src="[https://img.shields.io/badge/Platform-Mobile%20%26%20Web-orange?style=flat](https://img.shields.io/badge/Platform-Mobile%20%26%20Web-orange?style=flat)" /> \</p>
 
 
 ### 🛠 Tech Stack & Technologies
