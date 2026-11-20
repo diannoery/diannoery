@@ -1,14 +1,15 @@
-# Hi there, I'm Dian Noery 👋
+&#x20;\<p align="center">
+&#x20; \<img src="banner.svg" alt="Dian Noery - iOS Developer | Mobile Developer" width="100%">
+\</p>
 
-### iOS Developer | Mobile & Web Development
+\<h2 align="center">Hi there, I'm Dian Noery 👋\</h2>
 
-Building reliable, scalable, and user-friendly applications.
+\<p align="center">   \<strong>iOS Developer | Mobile & Web Development\</strong> \</p>
 
-I'm a Mobile Developer with a primary focus on iOS development. I have experience building mobile applications, implementing user interfaces, integrating REST APIs, and writing clean, maintainable code.
+\<p align="center">   Building elegant, scalable, and user-friendly applications. \</p>
 
-I also explore Android and web development to expand my knowledge of cross-platform development and modern software engineering.
+\<p align="center">   \<a href="[https://github.com/diannoery](https://github.com/diannoery)">     \<img src="[https://img.shields.io/badge/GitHub-diannoery-181717?style=flat&logo=github](https://img.shields.io/badge/GitHub-diannoery-181717?style=flat\&logo=github)" />   \</a>   \<img src="[https://img.shields.io/badge/Focus-iOS%20Development-blue?style=flat&logo=apple](https://img.shields.io/badge/Focus-iOS%20Development-blue?style=flat\&logo=apple)" />   \<img src="[https://img.shields.io/badge/Platform-Mobile%20%26%20Web-orange?style=flat](https://img.shields.io/badge/Platform-Mobile%20%26%20Web-orange?style=flat)" /> \</p>
 
----
 
 ### 🛠 Tech Stack & Technologies
 
